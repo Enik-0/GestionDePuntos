@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TP_SistemaPuntos/1.0.0": {
+        "dependencies": {
+          "LogicaPuntos": "1.0.0"
+        },
+        "runtime": {
+          "TP_SistemaPuntos.dll": {}
+        }
+      },
+      "LogicaPuntos/1.0.0": {
+        "runtime": {
+          "LogicaPuntos.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP_SistemaPuntos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaPuntos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

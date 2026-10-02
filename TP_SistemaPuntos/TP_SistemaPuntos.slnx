@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LogicaPuntos/LogicaPuntos.csproj" />
+  <Project Path="TP_SistemaPuntos/TP_SistemaPuntos.csproj" />
+</Solution>
